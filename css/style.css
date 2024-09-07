@@ -336,37 +336,6 @@ nav a:hover {
 }
 
 
-.service {
-    background: #101010;
-    width: 100%;
-    padding: 100px 0px;
-}
-.title{
-    color: white;
-    font-size: 75px;
-    width: 1120px;
-    margin: 30px auto;
-    text-align: center;
-}
-.box {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 400px;
-}
-.card{
-    height: 365px;
-    width: 335px;
-    padding: 20px 35px;
-    background: #191919;
-    border-radius: 20px;
-    margin: 15px;
-    position: relative;
-    overflow: hidden;
-    text-align: center;
-}
-
-
 .pra p{
     color: white;
     font-size: 10px;
@@ -403,6 +372,9 @@ padding-top: 40px 10px;
     position: relative;
     margin: 0 auto
 }
+
+
+
 /* Contact Section Styles */
 #contact-section {
     padding: 40px 10vw;
